@@ -1,0 +1,14 @@
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\bin\Debug\net8.0\IEnumerableListArray.exe
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\bin\Debug\net8.0\IEnumerableListArray.deps.json
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\bin\Debug\net8.0\IEnumerableListArray.runtimeconfig.json
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\bin\Debug\net8.0\IEnumerableListArray.dll
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\bin\Debug\net8.0\IEnumerableListArray.pdb
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.AssemblyInfoInputs.cache
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.AssemblyInfo.cs
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.csproj.CoreCompileInputs.cache
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.dll
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\refint\IEnumerableListArray.dll
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.pdb
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\IEnumerableListArray.genruntimeconfig.cache
+D:\C# ConsoleApplications\EnumArrayListCollection\IEnumerableListArray\obj\Debug\net8.0\ref\IEnumerableListArray.dll
